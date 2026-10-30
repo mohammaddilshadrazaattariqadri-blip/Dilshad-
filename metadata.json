@@ -1,0 +1,8 @@
+{
+  "name": "Remix LiquidGlass Android Launcher",
+  "description": "An ultra-fluid Android launcher experience featuring customizable liquid glass aesthetics with transparent, black obsidian, and white opal glass modes, interactive widgets, app drawer, and full liquid apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
